@@ -23,8 +23,8 @@ The Sport Education System is designed to enhance the learning, training, and pe
 ## 🔧 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (or React)
-- **Backend**: javaScript, Jodejs, 
-- **AI/ML**: Scikit-learn, Pandas, NumPy
+- **Backend**: javaScript, Nodejs, 
+- **AI/ML**: Scikit-learn, Pandas, NumPy, Python
 - **Data Visualization**: PowerBI / Matplotlib / Seaborn
 - **Database**: MySQL / SQLite
 - **Version Control**: Git & GitHub
