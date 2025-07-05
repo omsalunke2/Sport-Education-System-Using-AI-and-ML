@@ -29,5 +29,12 @@ The Sport Education System is designed to enhance the learning, training, and pe
 - **Database**: MySQL / SQLite
 - **Version Control**: Git & GitHub
 
-## 📂 Project Structure
-
+## How To Implement
+first download this repo
+**Step One**
+Open this repo in VS STUDIO and download the Node Module of the frontend as well as Backend
+**Step Two**
+Firstly run Backend in Terminal with **npm run server**
+then the connect Backend and Frontend 
+for Frontend command in terminal **npm start**
+then they run in web browser
