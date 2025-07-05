@@ -40,4 +40,7 @@ for Frontend command in terminal **npm start**
 then they run in web browser
 
 ![Screenshot 2025-03-05 141656](https://github.com/user-attachments/assets/ec8456ae-961b-4a34-8dc2-8696124b4580)
-
+![Screenshot 2025-03-05 140311](https://github.com/user-attachments/assets/9d58d354-bba1-4fba-b9aa-f9203b841a2d)
+![Screenshot 2025-03-05 140638](https://github.com/user-attachments/assets/d35d8822-c6fb-4722-9720-4cbbe5c2d508)
+![Screenshot 2025-03-05 140335](https://github.com/user-attachments/assets/dc6f9b10-fa17-4ec6-bac6-e0f22881bcda)
+![Screenshot 2025-03-05 141817](https://github.com/user-attachments/assets/50f62877-962b-4f5e-98ef-b552dc37568d)
